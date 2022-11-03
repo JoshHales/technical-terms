@@ -1,5 +1,4 @@
 # Technical Terms Glossary 🧐
-<br>
 ##Streaming Related Terms
 * VOD
 * Live
