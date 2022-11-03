@@ -1,5 +1,4 @@
-## Technical terms glossary
-
+## Technical Terms Glossary 🧐
 * VOD
 * Live
 * Linear
@@ -12,4 +11,5 @@
 * Postroll
 * add-on
 * mParticle
-* pat (public access token)
+* PAT (public access token)
+* Conviva
