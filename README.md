@@ -1,5 +1,6 @@
 # Technical Terms Glossary 🧐
 ##Streaming Related Terms
+
 * VOD
 * Live
 * Linear
@@ -20,3 +21,4 @@
 
 * Synchronous/Asynchronous Code
 * PAT (public access token)
+
