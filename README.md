@@ -21,4 +21,6 @@
 
 * Synchronous/Asynchronous Code
 * PAT (public access token)
-
+* SSL
+* Metadata
+* Regression pack
