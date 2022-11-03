@@ -1,4 +1,6 @@
-## Technical Terms Glossary 🧐
+# Technical Terms Glossary 🧐
+<br>
+##Streaming Related Terms
 * VOD
 * Live
 * Linear
@@ -6,10 +8,16 @@
 * Test harness
 * Vast
 * Yospace
-* Preroll
-* Midroll
-* Postroll
-* add-on
+* Pre-roll
+* Mid-roll
+* Post-roll
+* Add-on
 * mParticle
-* PAT (public access token)
 * Conviva
+* Clear Asset
+* OVP
+
+## General Programming Terms
+
+* Synchronous/Asynchronous Code
+* PAT (public access token)
