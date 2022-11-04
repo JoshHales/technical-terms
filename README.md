@@ -16,6 +16,7 @@
 * Conviva
 * Clear Asset
 * OVP
+* PiP (Picture in Picture)
 
 ## General Programming Terms
 
@@ -24,3 +25,4 @@
 * SSL
 * Metadata
 * Regression pack
+* Checksum
