@@ -26,3 +26,5 @@
 * Metadata
 * Regression pack
 * Checksum
+* Stored Property
+* Computed Property
